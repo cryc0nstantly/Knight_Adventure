@@ -170,7 +170,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 111
+  controlID: 102
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -270,8 +270,8 @@ MonoBehaviour:
     y: 0
     width: 362
     height: 939
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -435,9 +435,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: f6faffff
-      m_LastClickedID: -1290
-      m_ExpandedIDs: eafafffff6faffff14fbffff2273000054730000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 14fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1078,7 +1078,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/ScriptableObjects
+    - Assets
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -1086,30 +1086,31 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/ScriptableObjects
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\cryc0nstantly\My project
+  m_LastProjectPath: C:\Users\cryc0nstantly\Knight_Adventure\Knight_Adventure\My
+    project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: e09e0000
-    m_LastClickedID: 40672
-    m_ExpandedIDs: 00000000787400007a7400007e740000447600004c760000
+    m_SelectedIDs: 92760000
+    m_LastClickedID: 30354
+    m_ExpandedIDs: 00000000d2740000d4740000d674000092760000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Skeleton
-      m_OriginalName: Skeleton
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 31136
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 10}
     m_SearchString: 
@@ -1123,7 +1124,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000787400007a7400007c7400007e740000
+    m_ExpandedIDs: 00000000d2740000d4740000d6740000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1150,7 +1151,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c62300002079000022790000328c0000388c0000c28d0000b676000052760000d4730000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
